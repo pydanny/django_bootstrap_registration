@@ -1,0 +1,5 @@
+.idea/**
+*.pyc
+MANIFEST
+django_bootstrap_registration.db
+dist/**
