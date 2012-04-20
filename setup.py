@@ -2,11 +2,13 @@ from setuptools import setup
 
 setup(
     name='django_bootstrap_registration',
-    version='0.1',
+    version='0.1.1',
     author='Vijay Khemlani',
     author_email='vkhemlan@gmail.com',
     packages=[
         'bootstrap_registration',
+        'bootstrap_registration.backends',
+        'bootstrap_registration.forms',
     ],
     scripts=[],
     url='https://github.com/SoloTodo/django_bootstrap_registration',

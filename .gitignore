@@ -3,3 +3,4 @@
 MANIFEST
 django_bootstrap_registration.db
 dist/**
+django_bootstrap_registration.egg-info/
