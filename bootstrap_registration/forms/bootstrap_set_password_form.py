@@ -10,5 +10,5 @@ class BootstrapSetPasswordForm(BootstrapForm, SetPasswordForm):
 
     class Meta:
         layout = (
-            Fieldset(None, 'new_password1', 'new_password2'),
+            Fieldset('', 'new_password1', 'new_password2'),
             )

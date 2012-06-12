@@ -10,5 +10,5 @@ class BootstrapPasswordResetForm(BootstrapForm, PasswordResetForm):
 
     class Meta:
         layout = (
-            Fieldset(None, 'email', ),
+            Fieldset('', 'email', ),
             )

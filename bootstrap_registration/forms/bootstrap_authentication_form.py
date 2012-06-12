@@ -9,5 +9,5 @@ class BootstrapAuthenticationForm(BootstrapForm, AuthenticationForm):
     """
     class Meta:
         layout = (
-            Fieldset(None, 'username', 'password', ),
+            Fieldset('', 'username', 'password', ),
             )
