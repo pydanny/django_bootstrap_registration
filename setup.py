@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='django_bootstrap_registration',
-    version='0.1.1',
+    version='0.1.2',
     author='Vijay Khemlani',
     author_email='vkhemlan@gmail.com',
     packages=[
