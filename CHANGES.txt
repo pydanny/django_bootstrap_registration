@@ -1,2 +1,3 @@
+v0.1.2, 2012-06-11 -- Compatibility changes for latest django-bootstrap
 v0.1.1, 2012-04-20 -- Fixed package list in setup.py
 v0.1.0, 2012-04-20 -- Initial release.
